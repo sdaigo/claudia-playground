@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "with-api-gateway-executor",
+    "name": "with-api-gateway",
+    "region": "ap-northeast-1"
+  },
+  "api": {
+    "id": "jvo1mniiaf",
+    "module": "app"
+  }
+}
